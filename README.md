@@ -1,15 +1,30 @@
-# 📝 Todo Fullstack App
+# ✅ Todo App MERN
 
-React frontend + Node/Express backend in a single repo.
+A full-stack Todo App built with **MongoDB, Express, React, and Node.js**.
 
-## 📁 Structure
-- `/frontend` – React App
-- `/backend` – Express Backend
+## 📌 Features
 
-## 🚀 How to Run
+- Add, edit, delete todos
+- Responsive UI (React)
+- REST API (Express + MongoDB)
+- Clean folder structure (frontend + backend)
+- Easy to set up and run locally
 
-### Frontend
+---
+
+## 🧠 Tech Stack
+
+| Frontend  | Backend   | Database |
+|-----------|-----------|----------|
+| React.js  | Node.js   | MongoDB  |
+| Axios     | Express   | Mongoose |
+
+---
+
+## 🛠️ Installation & Running
+
+### 1. Clone the Repo
+
 ```bash
-cd frontend
-npm install
-npm start
+git clone https://github.com/Shubham-Padule/todo-app-mern.git
+cd todo-app-mern
